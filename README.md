@@ -4,7 +4,7 @@ This is a command-line tool that retrieves information of a GitHub user and crea
 
 ## Requirements
 
-- Node.js
+- Node.js 20.x or later
 - Git
 - Freshdesk API Key
 - GitHub Personal Access Token
